@@ -1,6 +1,6 @@
-# Password Creator
-# Author: Brscn
-# Email: terzibariscan6@gmail.com
+# password-creator
+# Author: Brscn0
+
 import random
 while True:
     what_do_you_want_to_do = int(input("""
